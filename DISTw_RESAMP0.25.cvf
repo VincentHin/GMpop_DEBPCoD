@@ -1,0 +1,77 @@
+"Integration accuracy"                                                                  1.0E-8
+"Cohort cycle time interval"                                                            5.0
+"Tolerance value, determining identity with zero"                                       1.0E-5
+
+"Maximum integration time"						              						  146000.0
+"Output time interval"                                                                  5.0
+"Complete state output interval, 0 for none"                                            0.0
+
+"Minimum allowable number of individuals in cohort"                                     0.0
+
+"Relative tolerances for i-state variable #0"                                           0.0
+"                        i-state variable #1"                                           0.0
+"                        i-state variable #2"                                           0.0
+"Absolute tolerances for i-state variable #0"                                           0.0
+"                        i-state variable #1"                                           0.0
+"                        i-state variable #2"                                           0.0
+
+"[ 0] Gestation period                                                    Tg"         365.0
+"[ 1] Lactation period                                                    Tl"        1223.0
+"[ 2] Age at independent foraging                                         Tf"         365.0
+"[ 3] Age at 100% foraging capacity                                       Tr"         500.0
+
+"[ 4] Length at birth                                                     Lb"         177.0
+"[ 5] Asymptotic length females                                           Linf"  	  450.0
+"[ 6] Asymptotic length males                                             Linf_m"     594.0
+"[ 7] Von Bertalanffy growth rate females                                  K"      0.000452
+"[ 8] Von Bertalanffy growth rate males                                    K_m"    0.000279
+
+"[ 9] Weight-length scalar                                            OmegaS"        8.5E-5
+"[10] Weight-length exponent                                          OmegaE"           2.6
+"[11] Relative maintenance reserves                                   OmegaM"           0.2
+"[12] Relative maintenance foetus                                     OmegaC"           1.0
+
+"[13] Target reserve-weight ratio                                        Rho"          0.30
+"[14] Starvation reserve-weight ratio                                   RhoS"          0.15
+
+"[15] Steepness reserves-assimilation response                          EtaF"          15.0
+"[16] Shape parameter of resource assimilation-age response            Gamma"	        2.0
+
+"[17] Energy provisioning ratio through lactation scalar                PhiM"           2.7
+
+"[18] Non-linearity in mother reserves-lactation rate                    XiM"          -2.0
+"[19] Non-linearity in resource assimilation - calve age rate            XiF"          -5.0
+"[20] Non-linearity in milk assimilation-calve age rate                  XiC"           0.9  
+
+"[21] Field metabolic rate scalar                                     SigmaM"          0.75
+"[22] Structural mass growth costs                                    SigmaG"          30.0
+"[23] Reserve-milk conversion ratio                                   SigmaL"          0.86
+
+"[24] Mortality parameter                                             Alpha1"          4.01E-4
+"[25] Mortality parameter                                              Beta1"          5.82E-4
+"[26] Mortality parameter                                             Alpha2"          6.04E-6
+"[27] Mortality parameter                                              Beta2"          3.01E-4
+"[28] Mortality scalar males                                           Mu_male"        2.13E-4
+
+"[29] Daily chance of becoming pregnant                           PREGCHANCE"	       0.00225
+
+"[30] Starvation mortality scalar                                        MuS"           0.2
+
+"[31] Anabolic conversion efficiency                                 EpsPlus"          55.0
+"[32] Catabolic conversion efficiency                                 EpsMin"          35.0
+
+"[33] Constant (d..i) or maximum (d.d.) resource density            RESOURCE"		    3.0
+"[34] Resource turn-over rate                               RESOURCETURNOVER"          0.05
+
+"[35] Seed value of the random number generator (use -1 to generate new) UNIDEVSEED"      687579833
+
+"[36] Amplitude of annual resource fluctuations            RESOURCEAMPLITUDE"			0.25
+"[37] Start date of annual disturbance                      DISTURBANCESTART"           0.0
+"[38] Duration of annual disturbance                       DISTURBANCEPERIOD"           0.0
+
+"Index of the bifurcation parameter                                         "	         38
+"Step size in the bifurcation parameter                                     "		    2.0
+"Final value of the bifurcation parameter                                   "	       60.0
+"Linear (0) or logarithmic (1) parameter change                             "			  0
+"Period of output generation in bifurcation                                 "        73000.0
+"Period of state output in bifurcation                                      "		 73000.0

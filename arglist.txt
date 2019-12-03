@@ -1,0 +1,4 @@
+./GMpop_DEBPCoD GM_pop
+./GMpop_DEBPCoD_bif DISTs_RESAMP0.0
+./GMpop_DEBPCoD_bif DISTs_RESAMP0.25
+./GMpop_DEBPCoD_bif DISTw_RESAMP0.25
